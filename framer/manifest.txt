@@ -1,0 +1,76 @@
+123.json
+234.json
+app.coffee
+bodymovin.min.js
+data.json
+framer/backups/backup-2017-06-30 18.23.07.coffee
+framer/backups/backup-2017-06-30 18.24.07.coffee
+framer/backups/backup-2017-06-30 18.25.07.coffee
+framer/backups/backup-2017-06-30 18.27.07.coffee
+framer/backups/backup-2017-06-30 18.28.07.coffee
+framer/backups/backup-2017-06-30 18.29.07.coffee
+framer/backups/backup-2017-06-30 18.30.07.coffee
+framer/backups/backup-2017-06-30 18.31.07.coffee
+framer/backups/backup-2017-06-30 18.33.07.coffee
+framer/backups/backup-2017-06-30 18.34.07.coffee
+framer/backups/backup-2017-06-30 18.35.07.coffee
+framer/backups/backup-2017-06-30 18.36.07.coffee
+framer/backups/backup-2017-06-30 18.38.07.coffee
+framer/backups/backup-2017-06-30 18.39.07.coffee
+framer/backups/backup-2017-06-30 18.40.07.coffee
+framer/backups/backup-2017-06-30 18.45.07.coffee
+framer/backups/backup-2017-06-30 18.46.07.coffee
+framer/backups/backup-2017-06-30 18.47.07.coffee
+framer/backups/backup-2017-06-30 18.48.07.coffee
+framer/backups/backup-2017-06-30 19.24.07.coffee
+framer/backups/backup-2017-07-10 18.09.21.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+images/IMG_1489.PNG
+imported/forframer@1x/images/Layer-addition-nte4mdlg.png
+imported/forframer@1x/images/Layer-addition-qtkxmja5.png
+imported/forframer@1x/images/Layer-avatar_vip-ndmyqtm0.png
+imported/forframer@1x/images/Layer-card1Aventar-mdnbnujc.png
+imported/forframer@1x/images/Layer-card1Bg-mtlgm0i2.png
+imported/forframer@1x/images/Layer-card1V-rkmxrtfg.png
+imported/forframer@1x/images/Layer-card2Aventar-qju4mtyy.png
+imported/forframer@1x/images/Layer-card2Bg-mtlfmdi2.png
+imported/forframer@1x/images/Layer-card2V-rdewouez.png
+imported/forframer@1x/images/Layer-card3Aventar-mzuwndq2.png
+imported/forframer@1x/images/Layer-card3Bg-nkrbrkm4.png
+imported/forframer@1x/images/Layer-card3V-rkq2otfc.png
+imported/forframer@1x/images/Layer-circleArea1-ney3mzky.png
+imported/forframer@1x/images/Layer-circleArea2-nzrcrejg.png
+imported/forframer@1x/images/Layer-circleArea3-mdk1rdmx.png
+imported/forframer@1x/images/Layer-feedBg-nzldqjiy.png
+imported/forframer@1x/images/Layer-navi-qtldrtbe.png
+imported/forframer@1x/images/Layer-tab-oeuxqui4.jpg
+imported/forframer@1x/layers.json
+imported/forframer@1x/layers.json.js
+index.html
+modules/Bodymovin1.coffee
+modules/Bodymovin2.coffee
+modules/Bodymovin3.coffee
+modules/Bodymovin4.coffee
