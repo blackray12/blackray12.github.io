@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cea069be-b038-4ada-b96f-8e1c2449e57f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/234.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/assets/iconfonts/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/assets/iconfonts/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/assets/iconfonts/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/assets/iconfonts/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/assets/icons/Rectangle 6 Copy 2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/assets/icons/Rectangle 6 Copy 3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/assets/icons/Rectangle 6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/assets/photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/homePage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/homePage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bak/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bodymovin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/.bookmark" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/.framer.modules.js.hash" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.23.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.24.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.25.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.27.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.28.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.29.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.30.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.31.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.33.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.34.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.35.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.36.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.38.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.39.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.40.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.45.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.46.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.47.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 18.48.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-06-30 19.24.07.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/backups/backup-2017-07-10 18.09.21.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/coffee-script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/framer.generated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/framer.init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/framer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/framer.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/framer.modules.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/images/cursor-active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/images/cursor-active@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/images/cursor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/images/cursor@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/images/icon-120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/images/icon-152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/images/icon-180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/images/icon-192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/images/icon-76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/manifest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/social-1200x630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/social-800x600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/social-80x80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/social-880x460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/framer/version" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG_1489.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-addition-nte4mdlg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-addition-qtkxmja5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-avatar_vip-ndmyqtm0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-card1Aventar-mdnbnujc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-card1Bg-mtlgm0i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-card1V-rkmxrtfg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-card2Aventar-qju4mtyy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-card2Bg-mtlfmdi2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-card2V-rdewouez.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-card3Aventar-mzuwndq2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-card3Bg-nkrbrkm4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-card3V-rkq2otfc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-circleArea1-ney3mzky.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-circleArea2-nzrcrejg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-circleArea3-mdk1rdmx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-feedBg-nzldqjiy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-navi-qtldrtbe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/images/Layer-tab-oeuxqui4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/layers.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imported/forframer@1x/layers.json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Bodymovin1.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Bodymovin2.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Bodymovin3.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Bodymovin4.coffee" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="blackray12.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="blackray12.github.io" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cea069be-b038-4ada-b96f-8e1c2449e57f" name="Default" comment="" />
+      <created>1499754547942</created>
+      <option name="number" value="Default" />
+      <updated>1499754547942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
